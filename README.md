@@ -1,2 +1,2 @@
-# uniBlogs
-uni-app 和腾讯云云开发
+# 云记
+记录美好生活，前端使用 uni-app，后端腾讯云云开发CMS提供的API
