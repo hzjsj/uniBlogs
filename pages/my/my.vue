@@ -91,6 +91,9 @@
 			    }
 			});
 		},
+		onShareAppMessage(){
+			
+		},
 		methods: {
 			toRecord(){
 				uni.navigateTo({

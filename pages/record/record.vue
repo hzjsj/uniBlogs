@@ -36,6 +36,9 @@
 			 uni.stopPullDownRefresh();
 			})
 		},
+		onShareAppMessage(){
+			
+		},
 		methods: {
 			viewImage(e){
 				uni.previewImage({
